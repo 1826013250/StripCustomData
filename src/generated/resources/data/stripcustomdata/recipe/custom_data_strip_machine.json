@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:stone"
+    },
+    "S": {
+      "item": "minecraft:shears"
+    },
+    "X": {
+      "item": "minecraft:brush"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "SBS",
+    "XXX"
+  ],
+  "result": {
+    "count": 1,
+    "id": "stripcustomdata:custom_data_strip_machine"
+  }
+}

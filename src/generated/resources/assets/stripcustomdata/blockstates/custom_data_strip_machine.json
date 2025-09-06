@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "stripcustomdata:block/custom_data_strip_machine"
+    }
+  }
+}
